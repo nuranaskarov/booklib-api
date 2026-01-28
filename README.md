@@ -1,6 +1,7 @@
 # Booklib API
 
-A simple book review application.
+A simple book review application. This is for demo only. The app is written
+based on functional requirements described in some document with a deadline of one day.
 
 ## Stack
 
